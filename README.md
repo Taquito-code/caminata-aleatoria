@@ -41,5 +41,5 @@ El script genera automáticamente el archivo `histograma_caminata.png` con la di
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/taquito-code/caminata-aleatoria.git](https://github.com/taquito-code/caminata-aleatoria.git)
+   git clone [https://github.com/Taquito-code/caminata-aleatoria.git](https://github.com/Taquito-code/caminata-aleatoria.git)
    cd caminata-aleatoria
